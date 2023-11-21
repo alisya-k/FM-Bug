@@ -26,9 +26,6 @@ MIC preamp followed by a tank circuit, can be tuned to broadcast between the ran
 https://github.com/alisya-k/FM-Bug/blob/main/MAIN.SchDoc
 <br /><br />
 
-### <3 <3
-Reading The Myth of Sisyphus on FM radio for the good people on my street to hear.
 
-https://github.com/alisya-k/FM-Bug/assets/56568411/47420b49-6db9-4c82-93fa-19d022d74d6c
 
 
